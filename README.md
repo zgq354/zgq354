@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm zgq354, a Web Developer based in Shenzhen, currently working on Hybrid App Development at Tencent.
+I'm zgq354, a Web Developer based in Shenzhen, currently working at Tencent.
 
 In spare time, I'm running a non-profit community about Computer Science Learning called [0xFFFF](https://0xffff.one/).
 
