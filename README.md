@@ -2,9 +2,9 @@
 
 I'm zgq354, you can call me `gq` or `guoqing`.
 
-Currently working as a Front-end R&D Engineer, mostly a React front-end developer, with a broad variety of other skills.
+Front-end Engineer, mostly a React developer, with a broad variety of other skills.
 
-In spare time, I'm also building a Community about Computer Science Learning called ["0xFFFF"](https://0xffff.one/).
+In spare time, I'm building a Community for Computer Science Learning called ["0xFFFF"](https://0xffff.one/).
 
 Also available at: [gq's blog](https://zgq.ink/) / [Twitter](https://twitter.com/zgq354)
 
