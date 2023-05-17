@@ -1,13 +1,9 @@
-### Hi there 👋
+### Hi, I'm gq 👋
 
-I'm zgq354, you can call me `gq` or `guoqing`.
+A web developer, with a broad variety of other skills.  
+Building a CS-Learning Community called [0xFFFF](https://0xffff.one/) in spare time.
 
-Front-end Engineer, mostly a React developer, with a broad variety of other skills.
+* More about me: [gq's blog](https://zgq.ink/) / [Twitter](https://twitter.com/zgq354)
+* Talk with me by [Email](mailto:zgq354@gmail.com)
 
-In spare time, I'm building a Community for Computer Science Learning called ["0xFFFF"](https://0xffff.one/).
-
-Also available at: [gq's blog](https://zgq.ink/) / [Twitter](https://twitter.com/zgq354)
-
-Feel free to talk with me by [Email](mailto:zgq354@gmail.com).
-
-<img src="https://github-readme-stats.vercel.app/api?username=zgq354&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=zgq354&show_icons=true&hide_title=true&hide=contribs" />
