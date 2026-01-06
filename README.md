@@ -6,5 +6,5 @@ Building a CS-Learning Community called [0xFFFF](https://0xffff.one/) in spare t
 * More: [@zgq354](https://zgq.me)
 * Reach me via [Email](mailto:mail@zgq.me)
 
-<!-- <img src="https://github-readme-stats.vercel.app/api?username=zgq354&show_icons=true&hide_title=true&hide=contribs" /> -->
+<img src="https://github-readme-stats-fast.vercel.app/api?username=zgq354&show_icons=true&hide_title=true&hide=contribs" />
 
